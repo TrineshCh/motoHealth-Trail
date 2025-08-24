@@ -14,7 +14,7 @@ MotoHealth is a dashboard web application that helps users compare various vehic
 
 🔧 Tech Stack
 Category	Technologies Used
-Frontend	Next.js, TypeScript, Tailwind CSS, DaisyUI, Shadcn UI
+Frontend	React.js, TypeScript, Tailwind CSS, DaisyUI, Shadcn UI
 Backend	Firebase, Supabase, GraphQL
 Authentication	Firebase Auth
 Database	Supabase (PostgreSQL)
